@@ -106,4 +106,6 @@ Operational Efficiency: Optimized outlet sizing strategy projected to reduce rea
 
 Inventory Management: Decreased stockouts by 23% while reducing holding costs by 15%
 
-Dashboard Preview- https://github.com/idlink-analytics/Sales-Analysis-Blinkit/blob/main/BlinkIt%20Sales%20Analysis_Power%20BI%20Dashboard.PNG
+Dashboard Preview-
+
+![BlinkIT Sales Dashboard](https://raw.githubusercontent.com/idlink-analytics/Sales-Analysis-Blinkit/main/BlinkIt%20Sales%20Analysis_Power%20BI%20Dashboard.PNG)
