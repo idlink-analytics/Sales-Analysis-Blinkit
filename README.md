@@ -105,3 +105,5 @@ Customer Satisfaction: Implementation of insights led to 12% improvement in aver
 Operational Efficiency: Optimized outlet sizing strategy projected to reduce real estate costs by 8%
 
 Inventory Management: Decreased stockouts by 23% while reducing holding costs by 15%
+
+Dashboard Preview- https://github.com/idlink-analytics/Sales-Analysis-Blinkit/blob/main/BlinkIt%20Sales%20Analysis_Power%20BI%20Dashboard.PNG
